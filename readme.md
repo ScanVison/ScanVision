@@ -1,6 +1,14 @@
+<div align="center">
+
 # ScanVision | Scan your Eyes for Better Vision
 
+</div>
+<div align="center">
+  
 # Overview
+
+</div>
+
 **ScanVision** is an innovative application that leverages machine learning to assess and classify eye health conditions quickly and accurately. It caters to both medical professionals and the general public by offering a user-friendly platform for detecting common eye health issues such as Diabetic Retinopathy, Cataract, Myopia, and Dry Eye Irritation.
 
 **For medical professionals**, ScanVision serves as a valuable tool by analyzing funduscopy images to classify the severity of Diabetic Retinopathy. This assists in decision-making and helps prioritize treatment strategies.
@@ -9,8 +17,17 @@
 
 By addressing the lack of access to healthcare services, particularly for the lower-middle class in developing nations like Indonesia, ScanVision bridges the gap between early detection and treatment. It empowers users to take proactive steps towards maintaining their eye health and supports healthcare professionals with precise, data-driven insights.
 
-# App Interface
-app interface here babo
+#
+
+<div align="center">
+
+### Download Here!
+[![Download App](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download App")](https://github.com/ScanVison/ScanVision/releases/download/v.0.0.1/ScanVision.apk)
+
+</div>
+
+#
+
 ### Can I try it?
 
 To try this app on your own please go to the respective repository, you could click the repo and it will show you the readme.md there
