@@ -7,3 +7,6 @@
 [submodule "ML_ScanVision_C242-PS467"]
 	path = ML_ScanVision_C242-PS467
 	url = https://github.com/nieehhh/ML_ScanVision_C242-PS467
+[submodule "ScanVisionApp"]
+	path = ScanVisionApp
+	url = https://github.com/nyvee/ScanVisionApp.git
