@@ -1,6 +1,3 @@
-[submodule "ML_Matane_C242-PS467"]
-	path = ML_Matane_C242-PS467
-	url = https://github.com/nieehhh/ML_Matane_C242-PS467.git
 [submodule "user-matane-api"]
 	path = user-matane-api
 	url = https://github.com/ToebagusFarhan/user-matane-api.git
